@@ -31,7 +31,7 @@ h1{
     text-align: center;
     background-color: #ef8172;
     color:white;
-    font-family: 'Montserrat-Bold';
+    font-family:'Times New Roman', Times, serif;
 }
 .carousel-item{
     padding:7% 15%;
@@ -43,14 +43,14 @@ h1{
     margin:20px;
 }
 
-#placementpartnes{
+#placement{
     background-color: #ef8172;
     text-align: center;
     color:white;
 
 }
-#placementpartnes h2{
-    font-family: 'Montserrat-Bold';
+#placement h2{
+    font-family:'Times New Roman', Times, serif;
 }
 .plac-img{
     width:70%;
@@ -65,7 +65,7 @@ h1{
 }
 #courses h2,h6{
     text-align: center;
-    font-family: 'Montserrat-Black';
+    font-family:'Times New Roman', Times, serif;
     margin-top: 10px;
 }
 h6{
